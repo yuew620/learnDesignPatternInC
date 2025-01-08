@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "bitset": "c",
+        "forward_list": "c",
+        "charconv": "c"
+    }
+}
